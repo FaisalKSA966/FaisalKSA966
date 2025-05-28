@@ -24,21 +24,34 @@
 
 ## 🚀 About Me
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1200&pause=800&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=650&height=80&lines=console.log(%22Hello+World!%22);print(%22Building+the+Future%22);echo+%22Code.+Create.+Innovate.%22;System.out.println(%22Dream+Big%22);" alt="Coding Animation" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=20&duration=1000&pause=600&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=700&height=60&lines=13+y%2Fo+Developer+🧑‍💻+|+Saudi+Arabia+🇸🇦+|+Mawhiba+Student+🎓;OpticAI+Founder+🚀+|+Flowline+Startup+💼+|+AI+Enthusiast+🤖;JavaScript+Expert+⚡+|+Discord+Bots+🔧+|+Cybersecurity+🛡️;Node.js+Backend+🌐+|+Game+Dev+🎮+|+Innovation+First+💡" alt="Profile Info" />
-
-</div>
-
-<div align="center">
-
-### 🎯 Current Status
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=800&pause=400&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=120&lines=🔥+Currently+working+on+OpticAI+platform;🌟+Developing+Flowline+automation+tools;📚+Learning+advanced+cybersecurity+techniques;🎮+Creating+games+with+Unreal+Engine;🤖+Building+intelligent+Discord+bots;🚀+Expanding+startup+operations" alt="Current Status" />
-
-</div>
+```javascript
+const faisal = {
+    fullName: "Faisal AlSaeed",
+    age: 13,
+    location: "Eastern Province, Saudi Arabia 🇸🇦",
+    education: "Mawhiba Program for Gifted Students",
+    role: "Full-Stack Developer & Entrepreneur",
+    
+    expertise: {
+        backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
+        frontend: ["HTML5", "CSS3", "JavaScript", "React"],
+        specialization: ["Discord Bot Development", "AI Integration", "Cybersecurity"],
+        tools: ["Git", "Docker", "Linux", "VS Code", "Unreal Engine"]
+    },
+    
+    currentProjects: {
+        "OpticAI": "Advanced AI platform for intelligent solutions",
+        "Flowline": "Startup for workflow optimization tools"
+    },
+    
+    languages: {
+        programming: ["JavaScript", "Python", "C++", "SQL"],
+        spoken: ["Arabic (Native)", "English (Fluent)", "Russian (Learning)"]
+    },
+    
+    mission: "Creating innovative solutions that make a difference 🌟"
+};
+```
 
 ---
 
