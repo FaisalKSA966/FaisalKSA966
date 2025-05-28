@@ -1,104 +1,70 @@
-
-
-````md
-<h1 align="center" style="font-size: 3em;">🌟 Faisal | فيصل 🌟</h1>
+<h1 align="center">Faisal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&center=true&vCenter=true&lines=13+y.o+Developer;JavaScript+Ninja;Discord+Bot+Master;Future+Cybersecurity+Expert" alt="Typing SVG">
+  <img src="YOUR_IMAGE_URL_HERE" width="150" style="border-radius: 50%;" alt="Faisal Profile Photo" />
 </p>
 
 <p align="center">
-  <b>🇸🇦 Saudi | 📍 Eastern Province | 👨‍💻 Age: 13</b>
+  Age: 13 &nbsp;|&nbsp; Nationality: Saudi &nbsp;|&nbsp; Location: Eastern Province
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I’m a **13-year-old Saudi developer** passionate about:
-- ⚙️ Discord bots
-- 🌐 Full-stack web development
-- 🎮 Game dev (Unreal Engine)
-- 🧠 AI tools and automation
-- 🔐 Cybersecurity & Ethical Hacking
+I am a 13-year-old Saudi developer with a focus on JavaScript and backend technologies. My main expertise is in developing Discord bots, but I am actively learning and working in areas such as full-stack web development, game development using Unreal Engine, and cybersecurity.
 
-I believe in learning by doing — some projects succeed, others teach.
+My interests also include artificial intelligence and the automation of technical tasks. I aim to build tools that are both practical and efficient.
 
 ---
 
-## 🧬 Personal Traits
+## Education
 
-> 🎭 **Multipersonal, self-aware, and independent**  
-> ⚡ Diagnosed with **bipolar disorder** – I turn challenges into fuel  
-> 💢 Low tolerance for: Ignorance, annoying behavior, and backward mindsets  
-> ❤️‍🔥 Relationships are rare — I value deep thinking and shared vision
+- High-achieving student
+- Member of the **Mawhiba** (Gifted Program), Saudi Arabia
 
 ---
 
-## 🎓 Education
+## Technical Skills
 
-- 🏅 Top-performing student
-- 🌟 Member of **Mawhiba** (Saudi gifted program)
-
----
-
-## 💼 Projects & Roles
-
-- 🚀 Founder & Dev @ **OpticAI**
-- 🔧 Owner of **Flowline** *(startup in progress)*
+- JavaScript (advanced)
+- Node.js, Express, APIs
+- Discord bot development
+- Frontend & backend development
+- Game development (Unreal Engine)
+- Automation tools and scripting
 
 ---
 
-## 🛠️ Skills
+## Tech Stack
 
-```txt
-⚡ JavaScript (Advanced)
-🤖 Discord Bot Development
-🌐 Frontend + Backend Web Dev
-🎮 Game Dev (Unreal Engine)
-🧠 AI Tools & Automation
-````
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,unreal,vscode,linux&theme=light" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,unreal,vscode,linux" alt="Tech Stack Icons">
 </p>
 
 ---
 
-## 🌍 Language Proficiency
+## Language Proficiency
 
-| Language     | Level    | Notes               |
-| ------------ | -------- | ------------------- |
-| 🇸🇦 Arabic  | Native   | Saudi Dialect       |
-| 🇬🇧 English | Fluent   | Scottish + American |
-| 🇷🇺 Russian | Learning | –                   |
-| 🇪🇸 Spanish | Learning | –                   |
+- Arabic: Native (Saudi dialect)
+- English: Fluent (Scottish and American accents)
+- Currently learning Russian and Spanish
 
 ---
 
-## 📫 Contact Me
+## Projects & Roles
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/432835944836038657?theme=light&bg=transparent&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=I'm offline 👋" alt="Discord Status">
-</p>
-
-> 📬 Discord: `6j.`
+- Founder and lead developer of **OpticAI**
+- Owner of **Flowline** (startup in early development)
 
 ---
 
-## 📸 Aesthetic
+## Contact
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/26/77/87/2677876e43e9f01d88a6e7275a92ba07.gif" width="300px">
-</p>
-
-<p align="center"><i>"Curiosity is the core of creation."</i></p>
-```
+- Discord: `6j.`
 
 ---
 
+## Notes
 
+I value independent thinking and high standards in both learning and work. While I enjoy collaboration, I prefer working with people who are serious, self-motivated, and respectful.
