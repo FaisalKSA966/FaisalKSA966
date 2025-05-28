@@ -71,12 +71,4 @@ Although I enjoy forming connections, my relationships often fail due to not fin
 
 ## Contact
 
-- GitHub: [https://github.com/YourUsername](https://github.com/YourUsername)
 - Discord: `6j.`
-
----
-
-## Additional Info
-
-- Favorite number: 7
-- No public websites available at the moment
