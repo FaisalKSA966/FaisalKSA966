@@ -1,67 +1,178 @@
-<h1 align="center">Faisal</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Faisal | Developer Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --bg: #0f0f0f;
+      --card: #1e1e1e;
+      --accent: #00c2ff;
+      --text: #eaeaea;
+      --subtle: #aaa;
+    }
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/200758656?v=4" width="150" style="border-radius: 50%;" alt="Faisal Profile Photo" />
-</p>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-<p align="center">
-  Age: 13 &nbsp;|&nbsp; Nationality: Saudi &nbsp;|&nbsp; Location: Eastern Province
-</p>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+    }
 
----
+    .container {
+      max-width: 900px;
+      width: 100%;
+    }
 
-## About Me
+    .profile {
+      text-align: center;
+      margin-bottom: 40px;
+    }
 
-I am a 13-year-old Saudi developer with a focus on JavaScript and backend technologies. My main expertise is in developing Discord bots, but I am actively learning and working in areas such as full-stack web development, game development using Unreal Engine, and cybersecurity.
+    .profile img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 3px solid var(--accent);
+      box-shadow: 0 0 15px #00c2ff50;
+      margin-bottom: 20px;
+    }
 
-My interests also include artificial intelligence and the automation of technical tasks. I aim to build tools that are both practical and efficient.
+    .profile h1 {
+      font-size: 2.8rem;
+      font-weight: 800;
+      color: var(--accent);
+    }
 
----
+    .meta {
+      margin-top: 10px;
+      color: var(--subtle);
+      font-size: 1rem;
+    }
 
-## Education
+    section {
+      margin-bottom: 40px;
+    }
 
-- High-achieving student
-- Member of the **Mawhiba** (Gifted Program), Saudi Arabia
+    h2 {
+      font-size: 1.8rem;
+      border-bottom: 2px solid var(--accent);
+      padding-bottom: 6px;
+      margin-bottom: 15px;
+      font-weight: 600;
+    }
 
----
+    ul {
+      list-style: disc;
+      padding-left: 20px;
+      line-height: 1.8;
+    }
 
-## Technical Skills
+    .tech-icons img {
+      width: auto;
+      max-height: 45px;
+      margin: 8px 10px 0 0;
+      vertical-align: middle;
+    }
 
-- JavaScript (advanced)
-- Node.js, Express, APIs
-- Discord bot development
-- Frontend & backend development
-- Game development (Unreal Engine)
-- Automation tools and scripting
+    .contact {
+      background-color: var(--card);
+      padding: 20px;
+      border-radius: 12px;
+      text-align: center;
+    }
 
----
+    .contact p {
+      font-size: 1.2rem;
+      color: var(--accent);
+    }
 
-## Tech Stack
+    @media (max-width: 600px) {
+      .profile h1 {
+        font-size: 2rem;
+      }
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,unreal,vscode,linux" alt="Tech Stack Icons">
-</p>
+      h2 {
+        font-size: 1.4rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="profile">
+      <img src="https://avatars.githubusercontent.com/u/200758656?v=4" alt="Faisal Profile Photo" />
+      <h1>Faisal</h1>
+      <div class="meta">Age: 13 &nbsp;|&nbsp; Saudi &nbsp;|&nbsp; Eastern Province</div>
+    </div>
 
----
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I am a 13-year-old Saudi developer with a focus on JavaScript and backend technologies.
+        I specialize in building Discord bots and actively explore areas such as full-stack web development,
+        game development using Unreal Engine, and cybersecurity. I'm passionate about automation and AI tools that solve real problems efficiently.
+      </p>
+    </section>
 
-## Language Proficiency
+    <section>
+      <h2>Education</h2>
+      <ul>
+        <li>High-achieving student</li>
+        <li>Member of the <strong>Mawhiba</strong> (Gifted Program), Saudi Arabia</li>
+      </ul>
+    </section>
 
-- Arabic: Native (Saudi dialect)
-- English: Fluent (Scottish and American accents)
-- Currently learning Russian and Spanish
+    <section>
+      <h2>Technical Skills</h2>
+      <ul>
+        <li>JavaScript (advanced)</li>
+        <li>Node.js, Express, APIs</li>
+        <li>Discord bot development</li>
+        <li>Frontend & backend web development</li>
+        <li>Game development using Unreal Engine</li>
+        <li>Automation tools and scripting</li>
+      </ul>
+    </section>
 
----
+    <section>
+      <h2>Tech Stack</h2>
+      <div class="tech-icons">
+        <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,unreal,vscode,linux" alt="Tech Stack Icons" />
+      </div>
+    </section>
 
-## Projects & Roles
+    <section>
+      <h2>Language Proficiency</h2>
+      <ul>
+        <li>Arabic: Native (Saudi dialect)</li>
+        <li>English: Fluent (Scottish & American accents)</li>
+        <li>Currently learning Russian and Spanish</li>
+      </ul>
+    </section>
 
-- Founder and lead developer of **OpticAI**
-- Owner of **Flowline** (startup in early development)
+    <section>
+      <h2>Projects & Roles</h2>
+      <ul>
+        <li>Founder and lead developer of <strong>OpticAI</strong></li>
+        <li>Owner of <strong>Flowline</strong> (startup in early development)</li>
+      </ul>
+    </section>
 
----
-
-## Contact
-
-- Discord: `6j.`
-
----
-
+    <section class="contact">
+      <h2>Contact</h2>
+      <p>Discord: <strong>6j.</strong></p>
+    </section>
+  </div>
+</body>
+</html>
