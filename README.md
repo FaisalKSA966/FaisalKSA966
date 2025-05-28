@@ -1,7 +1,7 @@
 <h1 align="center">Faisal</h1>
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="150" style="border-radius: 50%;" alt="Faisal Profile Photo" />
+  <img src="https://avatars.githubusercontent.com/u/200758656?v=4" width="150" style="border-radius: 50%;" alt="Faisal Profile Photo" />
 </p>
 
 <p align="center">
@@ -65,6 +65,3 @@ My interests also include artificial intelligence and the automation of technica
 
 ---
 
-## Notes
-
-I value independent thinking and high standards in both learning and work. While I enjoy collaboration, I prefer working with people who are serious, self-motivated, and respectful.
