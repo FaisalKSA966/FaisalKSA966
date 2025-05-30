@@ -108,14 +108,6 @@
 ## 📞 Let's Connect
 
 <div align="center">
-
-**🤝 Open for collaboration, mentorship, and innovative projects**
-
 [![Discord](https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/users/6j.)
 
-</div>
----
 
-**🛠️ Crafted with ❤️ by [Faisal](https://github.com/FaisalKSA966) | 🇸🇦 Saudi Arabia**
-
-</div>
