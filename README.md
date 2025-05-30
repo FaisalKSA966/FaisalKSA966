@@ -108,5 +108,5 @@
 ## 📞 Let's Connect
 
 <div align="center">
-[![Discord](https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/users/6j.)
+[![Discord](https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/6j.)
 </div>
