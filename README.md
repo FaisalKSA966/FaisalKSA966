@@ -10,7 +10,6 @@
 </div>
 
 ---
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -46,23 +45,6 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=FaisalKSA966&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&border_color=00C2FF&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalKSA966&theme=tokyonight&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" width="49%" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalKSA966&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&border_color=00C2FF&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 
 </div>
 
@@ -123,77 +105,15 @@
 </div>
 
 ---
-
-## 📈 GitHub Activity
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FaisalKSA966&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🏅 Achievements & Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=FaisalKSA966&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true&hide_border=true)
-
-</div>
-
----
-
-## 🌟 Professional Highlights
-
-<div align="center">
-
-```yaml
-🎓 Education: Mawhiba Program for Gifted Students (Saudi Arabia)
-💼 Experience: 3+ years in software development
-🚀 Specialization: Discord bots, AI integration, and cybersecurity
-🏢 Founder: OpticAI platform & Flowline startup
-🌍 Languages: Arabic (Native), English (Fluent), Russian (Learning)
-🎯 Mission: Building innovative solutions for tomorrow's challenges
-```
-
-</div>
-
----
-
 ## 📞 Let's Connect
 
 <div align="center">
 
 **🤝 Open for collaboration, mentorship, and innovative projects**
 
-[![Discord](https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/6j.)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaisalKSA966)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![Discord](https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.com/users/6j.)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/FaisalKSA966/FaisalKSA966/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Innovation distinguishes between a leader and a follower" - Steve Jobs
-
-![Visitor Count](https://profile-counter.glitch.me/FaisalKSA966/count.svg)
-
-**⭐ If you find my work interesting, consider giving a star to my repositories!**
-
 ---
 
 **🛠️ Crafted with ❤️ by [Faisal](https://github.com/FaisalKSA966) | 🇸🇦 Saudi Arabia**
