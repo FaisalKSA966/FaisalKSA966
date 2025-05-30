@@ -10,49 +10,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-## 👋 مرحباً، أنا فيصل | Hello, I'm Faisal
-
-**🧑‍💻 Full-Stack Developer** • **🤖 AI Enthusiast** • **🔐 Cybersecurity Specialist**  
-**📍 Eastern Province, Saudi Arabia** • **🎓 Mawhiba Program Member** • **👨‍💼 Startup Founder**
-
-</div>
-
----
-
-## 🚀 About Me
-
-```javascript
-const faisal = {
-    fullName: "Faisal AlSaeed",
-    age: 13,
-    location: "Eastern Province, Saudi Arabia 🇸🇦",
-    education: "Mawhiba Program for Gifted Students",
-    role: "Full-Stack Developer & Entrepreneur",
-    
-    expertise: {
-        backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
-        frontend: ["HTML5", "CSS3", "JavaScript", "React"],
-        specialization: ["Discord Bot Development", "AI Integration", "Cybersecurity"],
-        tools: ["Git", "Docker", "Linux", "VS Code", "Unreal Engine"]
-    },
-    
-    currentProjects: {
-        "OpticAI": "Advanced AI platform for intelligent solutions",
-        "Flowline": "Startup for workflow optimization tools"
-    },
-    
-    languages: {
-        programming: ["JavaScript", "Python", "C++", "SQL"],
-        spoken: ["Arabic (Native)", "English (Fluent)", "Russian (Learning)"]
-    },
-    
-    mission: "Creating innovative solutions that make a difference 🌟"
-};
-```
-
 ---
 
 ## 🛠️ Tech Stack & Tools
