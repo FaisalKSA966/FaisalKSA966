@@ -1,20 +1,24 @@
-<div align="center">
-  <img src="https://github.com/FaisalKSA966.png" width="150" height="150" style="border-radius: 50%;" alt="Faisal Avatar" />
-</div>
+<table>
+  <tr>
+    <td width="170" align="center">
+      <img src="https://github.com/FaisalKSA966.png" width="135" alt="Faisal Avatar"/>
+    </td>
+    <td valign="middle">
+      <h1>Hey, I'm Faisal</h1>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=7C5CFF&vCenter=true&width=480&lines=Building+MAX;Designing+private+digital+spaces;Full-Stack+Product+Developer;UI%2FUX+%2B+Systems+Craft" alt="Typing SVG"/>
+      <br/>
+      <sub>Building polished products with identity, depth and real functionality.</sub>
+    </td>
+  </tr>
+</table>
 
-<br/>
-  # <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=700&height=70&lines=Full-Stack+Developer;Discord+Bot+Specialist;AI+%26+Cybersecurity+Enthusiast;Founder+%26+Innovator)</div>
-  
-  <div align="center">
-    
-  [![Profile Views](https://komarev.com/ghpvc/?username=FaisalKSA966&color=00c2ff&style=for-the-badge)](https://github.com/FaisalKSA966)
-  [![Followers](https://img.shields.io/github/followers/FaisalKSA966?color=00c2ff&style=for-the-badge&logo=github&label=Followers)](https://github.com/FaisalKSA966)
-  [![Stars](https://img.shields.io/github/stars/FaisalKSA966?color=00c2ff&style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/FaisalKSA966)
-  [![Discord](https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/6j.)
-  
-  </div>
-  
-  ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FaisalKSA966&style=for-the-badge&color=633BFF&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/FaisalKSA966?style=for-the-badge&color=633BFF&labelColor=141A36&logo=github&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/FaisalKSA966?style=for-the-badge&color=633BFF&labelColor=141A36&logo=github&label=STARS"/>
+</p>
+
+---
   
   ## 🛠️ Tech Stack & Tools
   
