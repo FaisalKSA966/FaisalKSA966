@@ -1,133 +1,108 @@
+# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=700&height=70&lines=Full-Stack+Developer;Discord+Bot+Specialist;AI+%26+Cybersecurity+Enthusiast;Founder+%26+Innovator)</div>
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:060817,45:111A3D,100:633BFF&text=FAISAL&fontColor=F7F5FF&fontSize=56&fontAlignY=38&desc=Designing%20MAX%20%E2%80%A2%20Private%20storage%20with%20a%20real%20identity&descAlignY=60&descSize=16&animation=fadeIn" />
-
-<a href="https://github.com/FaisalKSA966">
-  <img src="https://img.shields.io/badge/GitHub-FaisalKSA966-0B1024?style=for-the-badge&logo=github&logoColor=white&labelColor=141A36" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=FaisalKSA966&style=for-the-badge&color=633BFF&label=PROFILE+VIEWS" />
-<a href="https://github.com/FaisalKSA966?tab=followers">
-  <img src="https://img.shields.io/github/followers/FaisalKSA966?style=for-the-badge&color=633BFF&labelColor=141A36&logo=github&label=FOLLOWERS" />
-</a>
-
-<br/><br/>
-
-### Building digital spaces that feel intentional — not generic.
-
-I create product-focused web experiences with polished interactions, strong visual identity,  
-and systems that are designed to be genuinely useful behind the interface.
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=FaisalKSA966&color=00c2ff&style=for-the-badge)](https://github.com/FaisalKSA966)
+[![Followers](https://img.shields.io/github/followers/FaisalKSA966?color=00c2ff&style=for-the-badge&logo=github&label=Followers)](https://github.com/FaisalKSA966)
+[![Stars](https://img.shields.io/github/stars/FaisalKSA966?color=00c2ff&style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/FaisalKSA966)
+[![Discord](https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/6j.)
 
 </div>
 
 ---
 
-## `01` — Currently building
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🎨 Frontend & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔧 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🎮 Game Development & AI
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="50%">
 
-### MAX
-**Private storage workspace with a personality.**
+### 🤖 OpticAI
+**Revolutionary AI Platform**
+- Advanced machine learning integration
+- Intelligent automation solutions
+- User-friendly interface design
+- Scalable architecture
 
-MAX is a premium workspace built around private media organization, intelligent workflows, and an interface that feels alive rather than purely functional.
-
-**In focus**
-- Private drive and media review workflows
-- Smart duplicate detection for altered/cropped media
-- Arena, profiles, shared collections and interactive surfaces
-- Secure operations tooling and audit-aware administration
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=artificial-intelligence&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
 
 </td>
-<td width="38%" valign="top">
+<td width="50%">
 
-```txt
-PRODUCT     MAX
-DIRECTION   Private Storage / Social Space
-DESIGN      Midnight • Glass • Aura
-STATUS      Building
-FOCUS       Real systems, real UI
-```
+### 🚀 Flowline
+**Startup & Innovation Hub**
+- Workflow optimization tools
+- Productivity enhancement solutions
+- Early-stage development
+- Market-ready prototypes
 
-![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-633BFF?style=for-the-badge&labelColor=11152B)
-![Identity](https://img.shields.io/badge/IDENTITY-MAX_NATIVE-151A36?style=for-the-badge&labelColor=11152B)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Business](https://img.shields.io/badge/Business-4ECDC4?style=flat-square&logo=briefcase&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Startup-orange?style=flat-square)
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## `02` — What I care about
+## 🎯 Expertise & Skills
 
 <div align="center">
 
-| Product Craft | Interactive UI | System Design | Automation |
-|:---:|:---:|:---:|:---:|
-| Clear identity and purposeful features | Smooth, premium interfaces | Secure and maintainable foundations | Useful tools, not empty demos |
-| Design systems | Motion and visual depth | APIs and data flows | Workflow acceleration |
+| 🔧 **Backend Development** | 🤖 **Bot Development** | 🎮 **Game Development** | 🔐 **Cybersecurity** |
+|:----------------------:|:------------------:|:-------------------:|:----------------:|
+| Node.js & Express | Discord.js Framework | Unreal Engine | Penetration Testing |
+| RESTful API Design | Command Systems | 3D Game Logic | Security Auditing |
+| Database Architecture | Event Handling | Performance Optimization | Ethical Hacking |
+| Microservices | Automation Bots | Multiplayer Systems | Vulnerability Assessment |
 
 </div>
 
 ---
 
-## `03` — Working stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,postgres,sqlite,git,github,vscode&perline=11&theme=dark" />
-
-<br/><br/>
-
-![Frontend](https://img.shields.io/badge/Frontend-React_%2F_Next.js-141A36?style=flat-square&logo=react&logoColor=7DD3FC)
-![Backend](https://img.shields.io/badge/Backend-Node.js_%2F_APIs-141A36?style=flat-square&logo=nodedotjs&logoColor=7EE787)
-![Database](https://img.shields.io/badge/Data-PostgreSQL_%2F_SQLite-141A36?style=flat-square&logo=postgresql&logoColor=86B7FF)
-![Design](https://img.shields.io/badge/Design-Premium_UI_Systems-633BFF?style=flat-square)
-
-</div>
-
----
-
-## `04` — Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### MAX / Vaultline
-A private storage experience evolving into a distinct product identity: intelligent organization, review tools, mascot-driven states and interactive spaces.
-
-`Product Design` `Full-Stack` `Media Workflows` `Security`
-
-</td>
-<td width="50%" valign="top">
-
-### Flowline
-An experimental product direction focused on structured workflows and building tools that move from concept into functional systems.
-
-`Product Thinking` `Automation` `Web Systems`
-
-</td>
-</tr>
-</table>
-
----
-
-## `05` — GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FaisalKSA966&show_icons=true&hide_border=true&bg_color=090D1E&title_color=A78BFA&icon_color=7C3AED&text_color=D9DBF4&ring_color=7C3AED" />
-<img height="165" src="https://streak-stats.demolab.com?user=FaisalKSA966&hide_border=true&background=090D1E&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=D9DBF4&dates=757B97&currStreakNum=F5F3FF&sideNums=F5F3FF" />
-
-</div>
-
----
-
-<div align="center">
-
-### Open to building experiences with identity, clarity and depth.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:633BFF,55:111A3D,100:060817" width="100%" />
-
-</div>
