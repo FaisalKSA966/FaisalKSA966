@@ -1,47 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:131313,100:1B1B1B&height=60&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0C0C0C,100:111111&height=42&section=header" />
 
 <br/>
 
 <img
   src="https://images.weserv.nl/?url=github.com/FaisalKSA966.png&h=220&w=220&fit=cover&mask=circle&maxage=7d"
-  width="165"
-  height="165"
+  width="150"
+  height="150"
   alt="Faisal Avatar"
 />
 
 <br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=950&height=80&lines=Full-Stack+Developer;Discord+Bot+Specialist;AI+Automation+Builder;Cybersecurity+Enthusiast;Founder+%26+Product+Builder"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FACC15&center=true&vCenter=true&width=1000&height=70&lines=Full-Stack+Developer;Discord+Bot+Specialist;AI+Automation+Builder;Cybersecurity+Enthusiast;Product+Minded+Creator"
   alt="Typing SVG"
 />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/PROFILE-VIEWED-FACC15?style=for-the-badge&logo=github&logoColor=000000" />
-<img src="https://komarev.com/ghpvc/?username=FaisalKSA966&color=FACC15&style=for-the-badge&label=PROFILE+VIEWS" />
+<!-- KEYCAP ROW -->
+<img src="https://img.shields.io/badge/ESC-050505?style=for-the-badge&logoColor=FACC15&labelColor=050505&color=111111" />
+<img src="https://img.shields.io/badge/DEV-FACC15?style=for-the-badge&logoColor=000000&labelColor=FACC15&color=FACC15" />
+<img src="https://img.shields.io/badge/BOT-111111?style=for-the-badge&logoColor=FACC15&labelColor=111111&color=1A1A1A" />
+<img src="https://img.shields.io/badge/AI-A855F7?style=for-the-badge&logoColor=FFFFFF&labelColor=A855F7&color=A855F7" />
+<img src="https://img.shields.io/badge/SECURITY-FB7185?style=for-the-badge&logoColor=FFFFFF&labelColor=FB7185&color=FB7185" />
+<img src="https://img.shields.io/badge/Y2K-FACC15?style=for-the-badge&logoColor=000000&labelColor=FACC15&color=FACC15" />
+
+<br/><br/>
+
+<a href="https://github.com/FaisalKSA966">
+  <img src="https://komarev.com/ghpvc/?username=FaisalKSA966&color=FACC15&style=for-the-badge&label=PROFILE+VIEWS" />
+</a>
 <a href="https://github.com/FaisalKSA966?tab=followers">
-  <img src="https://img.shields.io/github/followers/FaisalKSA966?color=A855F7&style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/followers/FaisalKSA966?color=FACC15&style=for-the-badge&logo=github&label=FOLLOWERS" />
 </a>
 <a href="https://github.com/FaisalKSA966">
-  <img src="https://img.shields.io/github/stars/FaisalKSA966?color=FB7185&style=for-the-badge&logo=github&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/stars/FaisalKSA966?color=A855F7&style=for-the-badge&logo=github&label=TOTAL%20STARS" />
 </a>
 <a href="https://discord.com/users/6j.">
-  <img src="https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/DISCORD-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Y2K-Aesthetic-000000?style=for-the-badge&logo=starship&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Dark-Premium-111111?style=for-the-badge&logo=vercel&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Pixel-Influence-1A1A1A?style=for-the-badge&logo=retroarch&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Builder-Mindset-1A1A1A?style=for-the-badge&logo=codeforces&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/LIQUID-GLASS-111111?style=for-the-badge&logo=buffer&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/KEYBOARD-AESTHETIC-FACC15?style=for-the-badge&logo=hackaday&logoColor=000000" />
+<img src="https://img.shields.io/badge/DARK-INTERFACE-111111?style=for-the-badge&logo=windowsterminal&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/PIXEL-INSPIRED-1A1A1A?style=for-the-badge&logo=retroarch&logoColor=FACC15" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FACC15,30:FDE047,60:A855F7,100:FB7185&height=4&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FACC15,30:FDE047,55:FFFFFF,80:A855F7,100:FB7185&height=4&section=header" />
 
 </div>
 
@@ -50,40 +61,44 @@
 <div align="center">
 
 <h2>
-  <img src="https://api.iconify.design/lucide:user-round-search.svg?color=%23FACC15" width="28" />
-  About Me
+  <img src="https://api.iconify.design/lucide:scan-face.svg?color=%23FACC15" width="24" />
+  ABOUT.ME
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23FACC15" width="14" />
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23A855F7" width="14" />
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23FB7185" width="14" />
 </h2>
 
 </div>
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="65%" valign="top">
 
-I’m a **full-stack developer** focused on building products that feel polished, modern, and useful.  
-My work mainly revolves around **Discord systems**, **AI automation**, **backend architecture**, **security-aware development**, and **premium user interfaces**.
+I’m a **full-stack developer** focused on building modern digital products with a strong balance of **logic**, **design**, and **real usability**.
 
-I enjoy combining strong logic with strong design — not just shipping features, but building experiences that feel intentional, smooth, and memorable.
+My main interests include:
 
-I’m especially interested in:
+- **Discord bots & automation systems**
+- **AI-powered workflows and assistants**
+- **Backend architecture & APIs**
+- **Cybersecurity-aware product development**
+- **Dark premium interfaces and modern dashboards**
 
-- Building **real product systems**
-- Creating **advanced Discord bots and communities**
-- Designing **modern dark dashboards**
-- Developing **AI-powered automation tools**
-- Working with a **security-first mindset**
+I like building things that feel **structured**, **smooth**, and **visually memorable** — not just functional, but product-ready.
 
 </td>
-<td width="32%" align="center" valign="middle">
 
-<img src="https://api.iconify.design/lucide:gem.svg?color=%23FACC15" width="72" />
+<td width="35%" align="center" valign="middle">
+
+<img src="https://api.iconify.design/lucide:gem.svg?color=%23FACC15" width="48" />
+<img src="https://api.iconify.design/lucide:sparkles.svg?color=%23A855F7" width="48" />
+<img src="https://api.iconify.design/lucide:star.svg?color=%23FB7185" width="48" />
+
 <br/><br/>
-<img src="https://api.iconify.design/lucide:sparkles.svg?color=%23A855F7" width="56" />
-<img src="https://api.iconify.design/lucide:star.svg?color=%23FB7185" width="56" />
 
-<br/><br/>
-
-<b>Design + Logic + Product Thinking</b>
+<img src="https://img.shields.io/badge/BUILD-WITH%20INTENT-FACC15?style=for-the-badge&logoColor=000000" />
+<br/>
+<img src="https://img.shields.io/badge/DESIGN-WITH%20TASTE-111111?style=for-the-badge&logoColor=FACC15" />
 
 </td>
 </tr>
@@ -94,46 +109,60 @@ I’m especially interested in:
 <div align="center">
 
 <h2>
-  <img src="https://api.iconify.design/lucide:crosshair.svg?color=%23FACC15" width="28" />
-  Core Focus
+  <img src="https://api.iconify.design/lucide:grid-2x2.svg?color=%23FACC15" width="24" />
+  SYSTEM.FOCUS
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23FACC15" width="14" />
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23FACC15" width="14" />
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23FACC15" width="14" />
 </h2>
+
+</div>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://api.iconify.design/lucide:bot.svg?color=%23FACC15" width="44" />
+<img src="https://api.iconify.design/lucide:bot.svg?color=%23FACC15" width="42" />
 <br/><br/>
-<b>Discord Systems</b>
+<b>DISCORD SYSTEMS</b>
 <br/>
-Bots, moderation, role systems, logging, automation, and server experiences.
+Bots, moderation, command systems, roles, events, logs, and automation.
 </td>
 
 <td align="center" width="25%">
-<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23A855F7" width="44" />
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23A855F7" width="42" />
 <br/><br/>
-<b>AI Automation</b>
+<b>AI AUTOMATION</b>
 <br/>
-Workflows, smart tools, product logic, intelligent assistants, and scalable automation.
+Assistants, product logic, workflow tools, smart utilities, and AI integration.
 </td>
 
 <td align="center" width="25%">
-<img src="https://api.iconify.design/lucide:shield-check.svg?color=%23FB7185" width="44" />
+<img src="https://api.iconify.design/lucide:shield-check.svg?color=%23FB7185" width="42" />
 <br/><br/>
-<b>Secure Backends</b>
+<b>SECURE BACKENDS</b>
 <br/>
-Authentication, validation, permissions, safe architecture, and audit-friendly systems.
+Validation, auth, permissions, safer defaults, and audit-aware design.
 </td>
 
 <td align="center" width="25%">
-<img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%23FACC15" width="44" />
+<img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%23FACC15" width="42" />
 <br/><br/>
-<b>Premium UI</b>
+<b>PREMIUM UI</b>
 <br/>
-Dark interfaces, structured dashboards, polished interactions, and clean product design.
+Dark dashboards, modern layouts, polished interaction, and clean design systems.
 </td>
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CTRL-000000?style=for-the-badge&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/ALT-FACC15?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/SHIFT-111111?style=for-the-badge&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/ENTER-A855F7?style=for-the-badge&logoColor=FFFFFF" />
+
 </div>
 
 ---
@@ -141,56 +170,50 @@ Dark interfaces, structured dashboards, polished interactions, and clean product
 <div align="center">
 
 <h2>
-  <img src="https://api.iconify.design/lucide:layers-3.svg?color=%23FACC15" width="28" />
-  Tech Stack & Tools
+  <img src="https://api.iconify.design/lucide:keyboard.svg?color=%23FACC15" width="24" />
+  TECH.KEYS
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23A855F7" width="14" />
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23FACC15" width="14" />
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23FB7185" width="14" />
 </h2>
 
 </div>
 
 <div align="center">
 
-<h3>
-  <img src="https://api.iconify.design/lucide:file-code-2.svg?color=%23FACC15" width="22" />
-  Languages
-</h3>
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" />
-
-<br/><br/>
-
-<h3>
-  <img src="https://api.iconify.design/lucide:database-zap.svg?color=%23A855F7" width="22" />
-  Backend & Database
-</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase&theme=dark" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
 
 <br/><br/>
 
-<h3>
-  <img src="https://api.iconify.design/lucide:monitor-smartphone.svg?color=%23FB7185" width="22" />
-  Frontend & Frameworks
-</h3>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" />
-
-<br/><br/>
-
-<h3>
-  <img src="https://api.iconify.design/lucide:wrench.svg?color=%23FACC15" width="22" />
-  Development Tools
-</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows&theme=dark" />
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPRESS-111111?style=for-the-badge&logo=express&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" />
 
 <br/><br/>
 
-<h3>
-  <img src="https://api.iconify.design/lucide:cpu.svg?color=%23A855F7" width="22" />
-  AI, Game & Creative Tools
-</h3>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/NEXT.JS-111111?style=for-the-badge&logo=nextdotjs&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/FIGMA-111111?style=for-the-badge&logo=figma&logoColor=FACC15" />
 
-<img src="https://skillicons.dev/icons?i=unreal,tensorflow,opencv,figma&theme=dark" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+<img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
 
 </div>
 
@@ -199,26 +222,11 @@ Dark interfaces, structured dashboards, polished interactions, and clean product
 <div align="center">
 
 <h2>
-  <img src="https://api.iconify.design/lucide:badges.svg?color=%23FACC15" width="28" />
-  Skill Highlights
-</h2>
-
-<img src="https://img.shields.io/badge/Full--Stack-Developer-FACC15?style=for-the-badge&logo=javascript&logoColor=000000" />
-<img src="https://img.shields.io/badge/Discord-Builder-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Automation-A855F7?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-FB7185?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Product-Systems-111111?style=for-the-badge&logo=vercel&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/UI-Dashboard%20Design-222222?style=for-the-badge&logo=figma&logoColor=FACC15" />
-
-</div>
-
----
-
-<div align="center">
-
-<h2>
-  <img src="https://api.iconify.design/lucide:rocket.svg?color=%23FACC15" width="28" />
-  Featured Projects
+  <img src="https://api.iconify.design/lucide:folder-kanban.svg?color=%23FACC15" width="24" />
+  PROJECT.BLOCKS
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23FACC15" width="14" />
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23A855F7" width="14" />
+  <img src="https://api.iconify.design/lucide:square.svg?color=%23FB7185" width="14" />
 </h2>
 
 </div>
@@ -228,26 +236,22 @@ Dark interfaces, structured dashboards, polished interactions, and clean product
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23FACC15" width="52" />
-<h3>OpticAI</h3>
-<b>AI Platform & Smart Automation</b>
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23FACC15" width="48" />
+<h3>OPTICAI</h3>
+<b>AI PLATFORM & AUTOMATION SYSTEM</b>
 </div>
 
-A product-focused AI platform centered around automation, intelligent workflows, and scalable system design.
+A product-oriented AI platform built around intelligent workflows, assistants, and scalable backend logic.
 
-<table>
-<tr><td><img src="https://api.iconify.design/lucide:zap.svg?color=%23FACC15" width="18"/></td><td>AI-driven automation flows</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:bot.svg?color=%23A855F7" width="18"/></td><td>Intelligent assistant logic</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%23FB7185" width="18"/></td><td>Modern dashboard experience</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:database.svg?color=%23FACC15" width="18"/></td><td>Scalable backend structure</td></tr>
-</table>
-
-<br/>
+- AI-powered automation
+- Smart assistant flows
+- Dashboard-centered UX
+- Scalable architecture
 
 <div align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
 <img src="https://img.shields.io/badge/AI-FACC15?style=flat-square&logo=openai&logoColor=000000" />
-<img src="https://img.shields.io/badge/Status-In%20Development-A855F7?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-A855F7?style=flat-square" />
+<img src="https://img.shields.io/badge/PRODUCT-SYSTEM-FB7185?style=flat-square" />
 </div>
 
 </td>
@@ -255,26 +259,22 @@ A product-focused AI platform centered around automation, intelligent workflows,
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://api.iconify.design/lucide:workflow.svg?color=%23A855F7" width="52" />
-<h3>Flowline</h3>
-<b>Startup & Workflow Innovation Hub</b>
+<img src="https://api.iconify.design/lucide:workflow.svg?color=%23A855F7" width="48" />
+<h3>FLOWLINE</h3>
+<b>STARTUP & WORKFLOW INNOVATION HUB</b>
 </div>
 
-A productivity-driven project built for smarter workflows, startup systems, and organized product execution.
+A system designed for productivity, execution, workflow structure, and startup-minded product building.
 
-<table>
-<tr><td><img src="https://api.iconify.design/lucide:route.svg?color=%23FACC15" width="18"/></td><td>Workflow optimization</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:boxes.svg?color=%23A855F7" width="18"/></td><td>Productivity systems</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23FB7185" width="18"/></td><td>Startup-focused ideas</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23FACC15" width="18"/></td><td>Market-ready tooling</td></tr>
-</table>
-
-<br/>
+- Workflow optimization
+- Productivity tooling
+- Organized systems
+- Market-ready concepts
 
 <div align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Business-FACC15?style=flat-square&logo=briefcase&logoColor=000000" />
-<img src="https://img.shields.io/badge/Status-Startup-FB7185?style=flat-square" />
+<img src="https://img.shields.io/badge/BUSINESS-FACC15?style=flat-square&logo=briefcase&logoColor=000000" />
+<img src="https://img.shields.io/badge/STARTUP-FB7185?style=flat-square" />
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </div>
 
 </td>
@@ -284,26 +284,22 @@ A productivity-driven project built for smarter workflows, startup systems, and 
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://api.iconify.design/lucide:bot-message-square.svg?color=%23FB7185" width="52" />
-<h3>Discord Bot Systems</h3>
-<b>Automation, Moderation & Community Tools</b>
+<img src="https://api.iconify.design/lucide:bot-message-square.svg?color=%23FB7185" width="48" />
+<h3>DISCORD BOT SYSTEMS</h3>
+<b>AUTOMATION, MODERATION & COMMUNITY TOOLS</b>
 </div>
 
-Advanced Discord bot ecosystems built for custom communities, permissions, moderation, and automation.
+Custom Discord ecosystems for communities, server management, commands, logging, and smart automation.
 
-<table>
-<tr><td><img src="https://api.iconify.design/lucide:shield.svg?color=%23FACC15" width="18"/></td><td>Moderation systems</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:message-square-code.svg?color=%23A855F7" width="18"/></td><td>Command architecture</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:user-cog.svg?color=%23FB7185" width="18"/></td><td>Role & permission flows</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:activity.svg?color=%23FACC15" width="18"/></td><td>Analytics and logging</td></tr>
-</table>
-
-<br/>
+- Command architecture
+- Moderation tools
+- Role & permission systems
+- Logs and automation
 
 <div align="center">
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-FACC15?style=flat-square&logo=robotframework&logoColor=000000" />
-<img src="https://img.shields.io/badge/Community-A855F7?style=flat-square" />
+<img src="https://img.shields.io/badge/DISCORD.JS-5865F2?style=flat-square&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/BOTS-FACC15?style=flat-square&logoColor=000000" />
+<img src="https://img.shields.io/badge/AUTOMATION-A855F7?style=flat-square" />
 </div>
 
 </td>
@@ -311,82 +307,22 @@ Advanced Discord bot ecosystems built for custom communities, permissions, moder
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://api.iconify.design/lucide:shield-check.svg?color=%23FACC15" width="52" />
-<h3>Security Toolkit</h3>
-<b>Auditing, Validation & Safe Systems</b>
+<img src="https://api.iconify.design/lucide:shield-check.svg?color=%23FACC15" width="48" />
+<h3>SECURITY TOOLKIT</h3>
+<b>AUDITING, VALIDATION & SAFE SYSTEMS</b>
 </div>
 
-Security-aware backend patterns and utilities designed around safer architecture and cleaner permission handling.
+Security-aware backend patterns and tools focused on access control, validation, and safer product design.
 
-<table>
-<tr><td><img src="https://api.iconify.design/lucide:key-round.svg?color=%23FACC15" width="18"/></td><td>Auth and access control</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:scan-search.svg?color=%23A855F7" width="18"/></td><td>Validation & security checks</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:file-lock-2.svg?color=%23FB7185" width="18"/></td><td>Safe config handling</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:clipboard-check.svg?color=%23FACC15" width="18"/></td><td>Audit-ready reports</td></tr>
-</table>
-
-<br/>
+- Auth & access control
+- Secure validation patterns
+- Audit-friendly logic
+- Safe configuration handling
 
 <div align="center">
-<img src="https://img.shields.io/badge/Security-FB7185?style=flat-square&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Audit-FACC15?style=flat-square&logo=checkmarx&logoColor=000000" />
-<img src="https://img.shields.io/badge/Backend-A855F7?style=flat-square" />
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23A855F7" width="52" />
-<h3>Gaming Tools</h3>
-<b>Game Utilities, Panels & Interactive Systems</b>
-</div>
-
-Tooling and systems related to gaming workflows, servers, panels, and product-like interactive experiences.
-
-<table>
-<tr><td><img src="https://api.iconify.design/lucide:server.svg?color=%23FACC15" width="18"/></td><td>Server utilities</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:gauge.svg?color=%23A855F7" width="18"/></td><td>Performance-minded systems</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:users.svg?color=%23FB7185" width="18"/></td><td>Community features</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:panel-top.svg?color=%23FACC15" width="18"/></td><td>Dashboard interfaces</td></tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Gaming-FACC15?style=flat-square&logo=steam&logoColor=000000" />
-<img src="https://img.shields.io/badge/Tools-A855F7?style=flat-square" />
-<img src="https://img.shields.io/badge/Panels-FB7185?style=flat-square" />
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="https://api.iconify.design/lucide:layout-template.svg?color=%23FACC15" width="52" />
-<h3>Premium UI Systems</h3>
-<b>Dark Interfaces & Product Design</b>
-</div>
-
-UI work focused on dark premium visuals, component consistency, clean layout systems, and polished interaction design.
-
-<table>
-<tr><td><img src="https://api.iconify.design/lucide:palette.svg?color=%23FACC15" width="18"/></td><td>Dark premium interfaces</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:panels-top-left.svg?color=%23A855F7" width="18"/></td><td>Structured dashboards</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:sparkles.svg?color=%23FB7185" width="18"/></td><td>Visual polish</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide:mouse-pointer-click.svg?color=%23FACC15" width="18"/></td><td>Interactive experience</td></tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/UI-FACC15?style=flat-square&logo=figma&logoColor=000000" />
-<img src="https://img.shields.io/badge/UX-A855F7?style=flat-square" />
-<img src="https://img.shields.io/badge/Dark%20Design-FB7185?style=flat-square" />
+<img src="https://img.shields.io/badge/SECURITY-FB7185?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/AUDIT-FACC15?style=flat-square&logoColor=000000" />
+<img src="https://img.shields.io/badge/BACKEND-111111?style=flat-square&logoColor=FACC15" />
 </div>
 
 </td>
@@ -398,82 +334,74 @@ UI work focused on dark premium visuals, component consistency, clean layout sys
 <div align="center">
 
 <h2>
-  <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23FACC15" width="28" />
-  What I Work With
+  <img src="https://api.iconify.design/lucide:component.svg?color=%23FACC15" width="24" />
+  WHAT.I.WORK.WITH
 </h2>
+
+</div>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://api.iconify.design/lucide:server-cog.svg?color=%23FACC15" width="46" />
-<h3>Backend</h3>
+<img src="https://api.iconify.design/lucide:server-cog.svg?color=%23FACC15" width="40" />
+<h3>BACKEND</h3>
 Node.js<br/>
 Express.js<br/>
 REST APIs<br/>
-Auth Systems<br/>
 Databases<br/>
-Microservices<br/>
 Architecture<br/>
 Automation
 </td>
 
 <td align="center" width="25%">
-<img src="https://api.iconify.design/lucide:bot.svg?color=%23A855F7" width="46" />
-<h3>Discord</h3>
+<img src="https://api.iconify.design/lucide:bot.svg?color=%23A855F7" width="40" />
+<h3>DISCORD</h3>
 Discord.js<br/>
-Slash Commands<br/>
+Commands<br/>
 Moderation<br/>
-Logging<br/>
-Events<br/>
 Roles<br/>
-Community Tools<br/>
-Automation
+Events<br/>
+Logs
 </td>
 
 <td align="center" width="25%">
-<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23FB7185" width="46" />
-<h3>AI Systems</h3>
-AI Tools<br/>
-Workflows<br/>
-Automation<br/>
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23FB7185" width="40" />
+<h3>AI SYSTEMS</h3>
+AI Workflows<br/>
 Assistants<br/>
+Automation<br/>
 Integrations<br/>
-Smart UX<br/>
-Data Flow<br/>
-Product Logic
+Logic Design<br/>
+Smart UX
 </td>
 
 <td align="center" width="25%">
-<img src="https://api.iconify.design/lucide:shield-half.svg?color=%23FACC15" width="46" />
-<h3>Security</h3>
+<img src="https://api.iconify.design/lucide:shield-half.svg?color=%23FACC15" width="40" />
+<h3>SECURITY</h3>
 Validation<br/>
 Permissions<br/>
-Risk Awareness<br/>
 Audit Logs<br/>
 Safer Defaults<br/>
-Review Mindset<br/>
-Secure Patterns<br/>
-Access Control
+Access Control<br/>
+Review Mindset
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
 <div align="center">
 
 <h2>
-  <img src="https://api.iconify.design/lucide:quote.svg?color=%23FACC15" width="28" />
-  Developer Mindset
+  <img src="https://api.iconify.design/lucide:quote.svg?color=%23FACC15" width="24" />
+  DEVELOPER.MINDSET
 </h2>
 
 <table>
 <tr>
 <td align="center">
 
-### **Build with purpose. Design with taste. Secure by default. Scale with discipline.**
+## **Build with purpose. Design with taste. Secure by default. Scale with discipline.**
 
 </td>
 </tr>
@@ -482,30 +410,36 @@ Access Control
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://api.iconify.design/lucide:gem.svg?color=%23FACC15" width="40" />
+<img src="https://api.iconify.design/lucide:gem.svg?color=%23FACC15" width="38" />
 <br/>
-<b>Premium Experience</b>
+<b>PREMIUM EXPERIENCE</b>
 <br/>
-Every product should feel polished, thoughtful, and visually intentional.
+Every product should feel polished, intentional, and memorable.
 </td>
 
 <td align="center" width="33%">
-<img src="https://api.iconify.design/lucide:cpu.svg?color=%23A855F7" width="40" />
+<img src="https://api.iconify.design/lucide:cpu.svg?color=%23A855F7" width="38" />
 <br/>
-<b>Clean Architecture</b>
+<b>CLEAN ARCHITECTURE</b>
 <br/>
-Systems should be maintainable, scalable, and built with long-term clarity.
+Systems should stay scalable, clear, and maintainable over time.
 </td>
 
 <td align="center" width="33%">
-<img src="https://api.iconify.design/lucide:shield-check.svg?color=%23FB7185" width="40" />
+<img src="https://api.iconify.design/lucide:shield-check.svg?color=%23FB7185" width="38" />
 <br/>
-<b>Security First</b>
+<b>SECURITY FIRST</b>
 <br/>
-Good products protect users, data, permissions, and behavior from the start.
+Strong products protect data, users, permissions, and behavior by design.
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MINDSET-FOCUSED-FACC15?style=for-the-badge&logoColor=000000" />
+<img src="https://img.shields.io/badge/BUILD-SMART-A855F7?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/DESIGN-CLEAN-FB7185?style=for-the-badge&logoColor=FFFFFF" />
 
 </div>
 
@@ -514,8 +448,8 @@ Good products protect users, data, permissions, and behavior from the start.
 <div align="center">
 
 <h2>
-  <img src="https://api.iconify.design/lucide:trophy.svg?color=%23FACC15" width="28" />
-  GitHub Trophies
+  <img src="https://api.iconify.design/lucide:trophy.svg?color=%23FACC15" width="24" />
+  GITHUB.TROPHIES
 </h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=FaisalKSA966&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
@@ -527,17 +461,16 @@ Good products protect users, data, permissions, and behavior from the start.
 <div align="center">
 
 <h2>
-  <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%23FACC15" width="28" />
-  GitHub Analytics
+  <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%23FACC15" width="24" />
+  GITHUB.ANALYTICS
 </h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FaisalKSA966&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=FACC15&icon_color=A855F7&text_color=EDEDED" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FaisalKSA966&theme=tokyonight&hide_border=true&background=0A0A0A&ring=FACC15&fire=FB7185&currStreakLabel=FACC15&sideNums=EDEDED&currStreakNum=A855F7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FaisalKSA966&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=FACC15&icon_color=A855F7&text_color=F3F4F6" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FaisalKSA966&theme=tokyonight&hide_border=true&background=050505&ring=FACC15&fire=FB7185&currStreakLabel=FACC15&sideNums=F3F4F6&currStreakNum=A855F7" />
 
 <br/><br/>
 
-<img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalKSA966&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=FACC15&text_color=EDEDED" />
+<img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalKSA966&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=FACC15&text_color=F3F4F6" />
 
 </div>
 
@@ -546,11 +479,11 @@ Good products protect users, data, permissions, and behavior from the start.
 <div align="center">
 
 <h2>
-  <img src="https://api.iconify.design/lucide:activity.svg?color=%23FACC15" width="28" />
-  Contribution Activity
+  <img src="https://api.iconify.design/lucide:activity.svg?color=%23FACC15" width="24" />
+  CONTRIBUTION.ACTIVITY
 </h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalKSA966&bg_color=0A0A0A&color=EDEDED&line=FACC15&point=A855F7&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalKSA966&bg_color=050505&color=F3F4F6&line=FACC15&point=A855F7&area=true&hide_border=true" />
 
 </div>
 
@@ -559,23 +492,23 @@ Good products protect users, data, permissions, and behavior from the start.
 <div align="center">
 
 <h2>
-  <img src="https://api.iconify.design/lucide:send.svg?color=%23FACC15" width="28" />
-  Connect With Me
+  <img src="https://api.iconify.design/lucide:send.svg?color=%23FACC15" width="24" />
+  CONNECT
 </h2>
 
 <a href="https://github.com/FaisalKSA966">
-  <img src="https://img.shields.io/badge/GitHub-FaisalKSA966-111111?style=for-the-badge&logo=github&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/GITHUB-FAISALKSA966-111111?style=for-the-badge&logo=github&logoColor=FACC15" />
 </a>
 
 <a href="https://discord.com/users/6j.">
-  <img src="https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/DISCORD-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Always-Building-FACC15?style=for-the-badge&logo=rocket&logoColor=000000" />
-<img src="https://img.shields.io/badge/Product-Minded-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Design-Aware-FB7185?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/ALWAYS-BUILDING-FACC15?style=for-the-badge&logo=rocket&logoColor=000000" />
+<img src="https://img.shields.io/badge/PRODUCT-MINDED-A855F7?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/VISUAL-TASTE-FB7185?style=for-the-badge&logoColor=FFFFFF" />
 
 </div>
 
@@ -583,6 +516,6 @@ Good products protect users, data, permissions, and behavior from the start.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,40:FDE047,75:A855F7,100:FB7185&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,35:FDE047,70:A855F7,100:FB7185&height=120&section=footer" />
 
 </div>
