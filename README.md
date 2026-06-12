@@ -1,58 +1,48 @@
-<!--
-  FaisalKSA966_README_MAX_OS_v4.md
-  Premium GitHub profile README rebuilt for Faisal.
-  Goal: not basic, not generic, no // headings, with Developer Mindset + Max projects.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=FAISAL%20KSA&fontSize=46&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Discord%20Systems%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Max%20Builder&descAlignY=59&color=0:050505,36:111111,63:FACC15,82:A855F7,100:FB7185&fontColor=FFFFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0D0D0D,100:151515&height=55&section=header" />
 
-<br />
+<br/>
 
 <img
-  src="https://images.weserv.nl/?url=github.com/FaisalKSA966.png&h=260&w=260&fit=cover&mask=circle&maxage=7d"
-  width="168"
-  height="168"
+  src="https://images.weserv.nl/?url=github.com/FaisalKSA966.png&h=240&w=240&fit=cover&mask=circle&maxage=7d"
+  width="170"
+  height="170"
   alt="Faisal Avatar"
 />
 
-<br /><br />
+<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=29&duration=2200&pause=650&color=FFFFFF&center=true&vCenter=true&width=1040&height=64&lines=I+build+systems%2C+not+basic+pages.;Discord+bots%2C+automation%2C+security%2C+and+premium+UI.;Currently+building+the+Max+ecosystem.;Design+with+taste.+Ship+with+discipline." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=29&duration=2200&pause=650&color=111111&center=true&vCenter=true&width=1040&height=64&lines=I+build+systems%2C+not+basic+pages.;Discord+bots%2C+automation%2C+security%2C+and+premium+UI.;Currently+building+the+Max+ecosystem.;Design+with+taste.+Ship+with+discipline." alt="Typing intro" />
-</picture>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2600&pause=850&color=FACC15&center=true&vCenter=true&width=980&height=78&lines=Full-Stack+Developer;Discord+Bot+Specialist;AI+Automation+Builder;Cybersecurity+Enthusiast;Founder+%26+Product+Builder;Building+Premium+Digital+Systems"
+  alt="Typing SVG"
+/>
 
-<br />
+<br/>
 
-<img src="https://img.shields.io/badge/AGE-14-FACC15?style=for-the-badge&labelColor=050505&color=FACC15" />
-<img src="https://img.shields.io/badge/MODE-BUILDER-FFFFFF?style=for-the-badge&labelColor=050505&color=FFFFFF" />
-<img src="https://img.shields.io/badge/FOCUS-MAX%20ECOSYSTEM-A855F7?style=for-the-badge&labelColor=050505&color=A855F7" />
-<img src="https://img.shields.io/badge/STYLE-DARK%20PREMIUM-FB7185?style=for-the-badge&labelColor=050505&color=FB7185" />
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=FaisalKSA966&style=for-the-badge&label=PROFILE+VISITS&color=111111" />
+<a href="https://github.com/FaisalKSA966">
+  <img src="https://komarev.com/ghpvc/?username=FaisalKSA966&color=FACC15&style=for-the-badge&label=PROFILE+VIEWS" />
+</a>
 <a href="https://github.com/FaisalKSA966?tab=followers">
-  <img src="https://img.shields.io/github/followers/FaisalKSA966?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=050505&color=FFFFFF" />
+  <img src="https://img.shields.io/github/followers/FaisalKSA966?color=A855F7&style=for-the-badge&logo=github&label=Followers" />
 </a>
 <a href="https://github.com/FaisalKSA966">
-  <img src="https://img.shields.io/github/stars/FaisalKSA966?style=for-the-badge&logo=github&label=TOTAL%20STARS&labelColor=050505&color=FACC15" />
+  <img src="https://img.shields.io/github/stars/FaisalKSA966?color=FB7185&style=for-the-badge&logo=github&label=Stars" />
 </a>
 <a href="https://discord.com/users/6j.">
-  <img src="https://img.shields.io/badge/DISCORD-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<br /><br />
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:FACC15,34:FDE047,67:A855F7,100:FB7185" />
+<img src="https://img.shields.io/badge/ESC-Y2K%20MODE-FACC15?style=for-the-badge&logo=starship&logoColor=000000" />
+<img src="https://img.shields.io/badge/CTRL-DARK%20PREMIUM-111111?style=for-the-badge&logo=vercel&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/SHIFT-PRODUCT%20BUILDER-A855F7?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/ALT-SECURITY%20AWARE-FB7185?style=for-the-badge&logo=hackthebox&logoColor=white" />
 
-<br />
+<br/><br/>
 
-<sub>
-  <b>Full-stack logic, Discord infrastructure, automation systems, security-aware backends, and interfaces that do not look basic.</b>
-</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FACC15,18:FDE047,45:111111,70:A855F7,100:FB7185&height=4&section=header" />
 
 </div>
 
@@ -60,505 +50,174 @@
 
 <div align="center">
 
-## ✦ Identity Core
+<h2>
+  <img src="https://api.iconify.design/lucide:user-round-check.svg?color=%23FACC15" width="30" />
+  About Me
+</h2>
 
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="68%" valign="top">
 
-### General Info
+I’m a **full-stack developer** focused on building polished, scalable, and product-ready systems.
 
-I’m **Faisal**, a **14-year-old developer and product builder** focused on creating digital systems that feel polished, useful, and memorable.
+My work combines **backend engineering**, **Discord automation**, **AI-powered workflows**, **security-aware development**, and **premium user interfaces**.
 
-My work is centered around **full-stack development**, **Discord bot systems**, **AI automation**, **backend architecture**, **cybersecurity awareness**, and **premium interface design**.
+I care about building systems that are not only functional, but also clean, memorable, and designed with a strong product mindset.
 
-I do not like building projects that feel empty or copied. I care about the full product feeling: the structure, the flow, the visual identity, the speed, the permissions, the dashboard, and the small details that make something feel real.
+<br/>
 
-Right now, one of my biggest directions is the **Max ecosystem** — a collection of private tools, media systems, desktop utilities, file experiences, game loops, and Discord-connected products.
-
-</td>
-<td width="42%" valign="top">
-
-```txt
-┌─ FAISAL / BUILDER CARD ───────────────────────┐
-│ age        14                                  │
-│ role       developer + product builder         │
-│ focus      Discord systems + Max ecosystem     │
-│ style      dark, premium, clean, sharp         │
-│ mindset    build real systems, not templates   │
-│ direction  automation, security, UI, backend   │
-└────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,react,nextjs,tailwind,mongodb,postgres,redis,firebase,git,github,vscode,docker,linux,windows,figma&theme=dark" />
-
-</div>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Systems-FACC15?style=flat-square&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/Style-Dark%20Premium-111111?style=flat-square&logo=vercel&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Mindset-Product%20First-A855F7?style=flat-square&logo=rocket&logoColor=white" />
 
 </td>
-</tr>
-</table>
 
----
+<td width="32%" align="center" valign="middle">
 
-<div align="center">
-
-## ★ Max Ecosystem
-
-<sub>Current project universe: private systems, media tools, Discord automation, desktop utilities, game loops, and file products.</sub>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Max Core
-
-A private digital workspace built around media, identity, personal content, smooth navigation, and product-level UI.
-
-- Private media library
-- Explore / For You direction
-- Internal tags and suggestions
-- Two-account foundation
-- Smooth navigation state
-- Premium dashboard structure
-- Personal product universe feeling
-
-</td>
-<td width="50%" valign="top">
-
-### Max Arena
-
-A game layer inside Max focused on quick duels, ranked progression, identity cards, banners, and reward loops.
-
-- Ranked queue
-- Micro-games loop
-- Versus intro screens
-- Result and rematch screens
-- Cards, banners, badges
-- Seasons and reward tracks
-- Competitive identity system
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Max Archive
-
-A separate private archive direction with a darker identity, encryption-first thinking, and a clear split from the normal Max workspace.
-
-- Private archive system
-- Client-side encryption direction
-- Separate mood and colors
-- Upload and preview flows
-- No public-feed feeling
-- Built for sensitive storage
-- Transition from Max into Archive
-
-</td>
-<td width="50%" valign="top">
-
-### Max Player / Max TV
-
-A media-player direction for movies, series, channels, events, match schedules, and premium watch experiences.
-
-- Movies and series organization
-- Channel-style navigation
-- Event-based streaming ideas
-- World Cup 2026 systems
-- Match alerts and predictions
-- Arabic / English presentation
-- Discord-connected event flow
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Max Stack
-
-A local-first desktop utility for switching between app accounts and profiles without making it feel like a boring Windows template.
-
-- Local-only direction
-- App profile switching
-- Isolation research
-- Small premium launcher
-- Native desktop UX
-- No generic WebView look
-- Built for real daily use
-
-</td>
-<td width="50%" valign="top">
-
-### MAX Files
-
-A file-platform direction with a softer identity, glossy file visuals, friendly mascot energy, and a clean dashboard experience.
-
-- File-centered product identity
-- Glossy 3D file mascot direction
-- Modern file dashboard
-- Premium banners
-- Upload and browsing flow
-- Strong visual memory
-- Less boring cloud-storage feeling
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### DuoDesk
-
-A private two-person workspace for screen sharing, clipboard sharing, files, presence, screenshots, and control tools.
-
-- Two-person private room
-- Screen and control direction
-- Shared clipboard
-- File drops
-- Presence and status
-- Private productivity flow
-- Not a generic chat app
-
-</td>
-<td width="50%" valign="top">
-
-### Discord Infrastructure
-
-Advanced Discord systems built around moderation, automation, community flow, alerts, logging, predictions, and custom server experiences.
-
-- Slash command architecture
-- Moderation tools
-- Role and permission systems
-- Logging and analytics
-- Event automation
-- Community dashboards
-- Server identity design
-
-</td>
-</tr>
-</table>
-
-<details open>
-<summary><b>Open Max System Map</b></summary>
-
-```mermaid
-flowchart TB
-  A[Max Ecosystem] --> B[Max Core]
-  A --> C[Max Arena]
-  A --> D[Max Archive]
-  A --> E[Max Player / Max TV]
-  A --> F[Max Stack]
-  A --> G[MAX Files]
-  A --> H[DuoDesk]
-  A --> I[Discord Infrastructure]
-
-  B --> B1[Private Media]
-  B --> B2[Explore Logic]
-  B --> B3[Two Account Base]
-
-  C --> C1[Quick Duels]
-  C --> C2[Ranked Seasons]
-  C --> C3[Cards + Rewards]
-
-  D --> D1[Encrypted Direction]
-  D --> D2[Separate Identity]
-
-  E --> E1[Movies / Series / Channels]
-  E --> E2[World Cup Systems]
-  E --> E3[Predictions + Alerts]
-
-  F --> F1[Local Profiles]
-  F --> F2[App Switching]
-  F --> F3[Native Launcher]
-
-  G --> G1[Glossy Mascot]
-  G --> G2[File Dashboard]
-
-  H --> H1[Screen / Clipboard]
-  H --> H2[Private Two-Person Flow]
-
-  I --> I1[Moderation]
-  I --> I2[Automation]
-  I --> I3[Logging]
-```
-
-</details>
-
----
-
-<div align="center">
-
-## ◆ Product DNA
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### Taste
-
-Interfaces should feel intentional, not generated.
-
-<kbd>premium</kbd> <kbd>clean</kbd> <kbd>cinematic</kbd>
-
-</td>
-<td align="center" width="25%">
-
-### Systems
-
-Good products need structure behind the visual layer.
-
-<kbd>logic</kbd> <kbd>state</kbd> <kbd>flows</kbd>
-
-</td>
-<td align="center" width="25%">
-
-### Security
-
-Backends should be safe from the start.
-
-<kbd>permissions</kbd> <kbd>validation</kbd> <kbd>audit</kbd>
-
-</td>
-<td align="center" width="25%">
-
-### Identity
-
-Every project needs a visual memory.
-
-<kbd>brand</kbd> <kbd>motion</kbd> <kbd>details</kbd>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ✦ Developer Mindset
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Build With Purpose
-
-I do not like empty features. A feature needs a reason, a place in the flow, and a clear feeling when someone uses it.
-
-</td>
-<td width="33%" valign="top">
-
-### Design With Taste
-
-A product can technically work and still feel dead. I care about spacing, rhythm, color, depth, motion, and small details.
-
-</td>
-<td width="33%" valign="top">
-
-### Ship Real Systems
-
-I prefer building things that can actually grow: proper structure, maintainable code, clear data flow, and UI that does not collapse after two features.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### Secure By Default
-
-Private systems should respect users from the beginning: permissions, validation, safe storage, and careful access patterns.
-
-</td>
-<td width="33%" valign="top">
-
-### Avoid Basic Output
-
-I do not want projects that look like templates. The goal is to make every build feel like it has its own universe.
-
-</td>
-<td width="33%" valign="top">
-
-### Keep Iterating
-
-The first version is never the final identity. I keep pushing the idea until it becomes sharper, cleaner, and more real.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-> **Build with purpose. Design with taste. Secure by default. Scale with discipline.**
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ Current Build Console
-
-</div>
-
-```txt
-┌─ CURRENT WORKSPACE ───────────────────────────────────────────────────────┐
-│ 01  Max Core              private workspace + product identity            │
-│ 02  Max Arena             duels, ranked loop, cards, seasons              │
-│ 03  Max Archive           encrypted archive direction + separate mood     │
-│ 04  Max Player / Max TV   movies, shows, channels, events, schedules      │
-│ 05  Max Stack             local desktop account/profile switcher          │
-│ 06  MAX Files             file dashboard + glossy mascot identity         │
-│ 07  DuoDesk               two-person screen/control/files workspace       │
-│ 08  Discord Systems       bots, moderation, logging, alerts, automation   │
-└───────────────────────────────────────────────────────────────────────────┘
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### What I Like Building
-
-- Private tools for a small number of people
-- Dashboards that feel expensive and smooth
-- Discord systems and automation flows
-- Media systems, archives, and file experiences
-- Game loops with ranks, cards, and rewards
-- Local-first desktop utilities
-- Interfaces with personality, not default templates
-
-</td>
-<td width="50%" valign="top">
-
-### What I Avoid
-
-- Generic landing pages
-- Empty AI-looking content
-- Copy-paste dashboard layouts
-- Overly formal product writing
-- Features that sound cool but do nothing
-- Basic MVPs that never grow
-- UI with no identity or emotional impact
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ✦ Tech Stack
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,redis,firebase&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-### Systems
-
-<img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github,vscode&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-### Creative
-
-<img src="https://skillicons.dev/icons?i=figma,blender,unreal,tensorflow,opencv&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/Discord.js-111111?style=for-the-badge&logo=discord&logoColor=5865F2" />
-<img src="https://img.shields.io/badge/Product%20Design-111111?style=for-the-badge&logo=figma&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Security%20Mindset-111111?style=for-the-badge&logo=hackthebox&logoColor=FB7185" />
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ Engineering Zones
-
-</div>
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-<img src="https://api.iconify.design/lucide:bot.svg?color=%23FACC15" width="48" />
-
-### Discord Systems
-
-Bots, slash commands, moderation, logging, roles, permissions, alerts, server flows, and community automation.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23A855F7" width="48" />
-
-### AI Automation
-
-Workflow tools, smart assistants, internal product logic, automation flows, and useful AI-connected systems.
-
-</td>
-<td width="25%" align="center" valign="top">
-
+<img src="https://api.iconify.design/lucide:keyboard.svg?color=%23FACC15" width="78" />
+<br/><br/>
+<img src="https://api.iconify.design/lucide:sparkles.svg?color=%23A855F7" width="48" />
+<img src="https://api.iconify.design/lucide:gem.svg?color=%23FACC15" width="48" />
 <img src="https://api.iconify.design/lucide:shield-check.svg?color=%23FB7185" width="48" />
 
-### Secure Backends
+<br/><br/>
 
-Authentication, validation, permissions, safe config handling, audit logs, and cleaner server architecture.
+<b>Logic. Design. Security. Product.</b>
 
 </td>
-<td width="25%" align="center" valign="top">
+</tr>
+</table>
 
+---
+
+<div align="center">
+
+<h2>
+  <img src="https://api.iconify.design/lucide:crosshair.svg?color=%23FACC15" width="30" />
+  Core Focus
+</h2>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:bot.svg?color=%23FACC15" width="48" />
+<br/><br/>
+<b>Discord Systems</b>
+<br/>
+Bots, moderation, role systems, logging, dashboards, and automation.
+</td>
+
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23A855F7" width="48" />
+<br/><br/>
+<b>AI Automation</b>
+<br/>
+Smart tools, assistant logic, workflows, integrations, and product intelligence.
+</td>
+
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:shield-check.svg?color=%23FB7185" width="48" />
+<br/><br/>
+<b>Secure Backends</b>
+<br/>
+Authentication, validation, permissions, audit logs, and safe architecture.
+</td>
+
+<td align="center" width="25%">
 <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%23FACC15" width="48" />
-
-### Premium UI
-
-Dark dashboards, cinematic layouts, product motion, spacing, visual identity, and less generic interfaces.
-
+<br/><br/>
+<b>Premium UI</b>
+<br/>
+Dark dashboards, polished layouts, strong hierarchy, and clean interactions.
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ✦ Featured Systems
+<h2>
+  <img src="https://api.iconify.design/lucide:layers-3.svg?color=%23FACC15" width="30" />
+  Tech Stack & Tools
+</h2>
+
+<h3>
+  <img src="https://api.iconify.design/lucide:file-code-2.svg?color=%23FACC15" width="22" />
+  Languages
+</h3>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" />
+
+<br/><br/>
+
+<h3>
+  <img src="https://api.iconify.design/lucide:server-cog.svg?color=%23A855F7" width="22" />
+  Backend & Database
+</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase&theme=dark" />
+
+<br/><br/>
+
+<h3>
+  <img src="https://api.iconify.design/lucide:monitor-smartphone.svg?color=%23FB7185" width="22" />
+  Frontend & Frameworks
+</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" />
+
+<br/><br/>
+
+<h3>
+  <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23FACC15" width="22" />
+  Development Environment
+</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows&theme=dark" />
+
+<br/><br/>
+
+<h3>
+  <img src="https://api.iconify.design/lucide:cpu.svg?color=%23A855F7" width="22" />
+  AI, Game & Creative Tools
+</h3>
+
+<img src="https://skillicons.dev/icons?i=unreal,tensorflow,opencv,figma&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>
+  <img src="https://api.iconify.design/lucide:badge-check.svg?color=%23FACC15" width="30" />
+  Skill Highlights
+</h2>
+
+<img src="https://img.shields.io/badge/Full--Stack-Developer-FACC15?style=for-the-badge&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/Discord-Bot%20Specialist-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Automation-A855F7?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-Aware-FB7185?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Product-Builder-111111?style=for-the-badge&logo=vercel&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Dashboard-Designer-222222?style=for-the-badge&logo=figma&logoColor=FACC15" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>
+  <img src="https://api.iconify.design/lucide:rocket.svg?color=%23FACC15" width="30" />
+  Featured Projects
+</h2>
 
 </div>
 
@@ -566,144 +225,320 @@ Dark dashboards, cinematic layouts, product motion, spacing, visual identity, an
 <tr>
 <td width="50%" valign="top">
 
-### OpticAI
-
-A product-focused AI platform direction centered around automation, intelligent workflows, assistant logic, and scalable product structure.
-
-**Focus:** AI flows, dashboard UX, backend architecture, automation logic.
-
-<img src="https://img.shields.io/badge/AI-111111?style=flat-square&logo=openai&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Automation-111111?style=flat-square&logo=zapier&logoColor=A855F7" />
-<img src="https://img.shields.io/badge/Product-111111?style=flat-square&logo=vercel&logoColor=FFFFFF" />
-
-</td>
-<td width="50%" valign="top">
-
-### Flowline
-
-A startup and workflow innovation direction built around organized execution, productivity systems, and product planning.
-
-**Focus:** workflows, product execution, operations, dashboards, startup tooling.
-
-<img src="https://img.shields.io/badge/Workflow-111111?style=flat-square&logo=linear&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Startup-111111?style=flat-square&logo=rocket&logoColor=FB7185" />
-<img src="https://img.shields.io/badge/Systems-111111?style=flat-square&logo=nodedotjs&logoColor=A855F7" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Discord Bot Systems
-
-Advanced Discord bot ecosystems for custom communities, moderation, server protection, role flows, automation, and analytics.
-
-**Focus:** Discord.js, command architecture, permissions, logs, moderation, automation.
-
-<img src="https://img.shields.io/badge/Discord.js-111111?style=flat-square&logo=discord&logoColor=5865F2" />
-<img src="https://img.shields.io/badge/Moderation-111111?style=flat-square&logo=shield&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Community-111111?style=flat-square&logo=users&logoColor=FB7185" />
-
-</td>
-<td width="50%" valign="top">
-
-### Security Toolkit
-
-Security-aware utilities and backend patterns designed around safer defaults, validation, permission control, and audit-friendly systems.
-
-**Focus:** auth, validation, access control, config safety, reports, risk awareness.
-
-<img src="https://img.shields.io/badge/Security-111111?style=flat-square&logo=hackthebox&logoColor=FB7185" />
-<img src="https://img.shields.io/badge/Auth-111111?style=flat-square&logo=auth0&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Audit-111111?style=flat-square&logo=checkmarx&logoColor=A855F7" />
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
-
-## ✦ Build Loop
-
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23FACC15" width="54" />
+<h3>OpticAI</h3>
+<b>AI Platform & Smart Automation</b>
 </div>
 
-```mermaid
-flowchart LR
-  A[Idea] --> B[Identity]
-  B --> C[Flow]
-  C --> D[Prototype]
-  D --> E[Real System]
-  E --> F[Polish]
-  F --> G[Test]
-  G --> H[Ship]
-  H --> I[Improve]
-  I --> B
-```
+<br/>
 
----
-
-<details open>
-<summary><b>Lab Notes</b></summary>
-
-<br />
+A product-focused AI platform centered around automation, intelligent workflows, and scalable system design.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td><img src="https://api.iconify.design/lucide:zap.svg?color=%23FACC15" width="18"/></td>
+<td>AI-driven automation flows</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:bot.svg?color=%23A855F7" width="18"/></td>
+<td>Assistant-style product logic</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%23FB7185" width="18"/></td>
+<td>Modern dashboard experience</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:database-zap.svg?color=%23FACC15" width="18"/></td>
+<td>Scalable backend structure</td>
+</tr>
+</table>
 
-### UI Rules
+<br/>
 
-- Dark premium first
-- Rounded but not childish
-- Smooth spacing
-- Strong visual hierarchy
-- No empty “AI slop” text
-- Every screen needs a reason
+<div align="center">
+<img src="https://img.shields.io/badge/JavaScript-FACC15?style=flat-square&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/AI-A855F7?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-In%20Development-FB7185?style=flat-square" />
+</div>
 
 </td>
-<td width="33%" valign="top">
 
-### System Rules
+<td width="50%" valign="top">
 
-- Clean architecture
-- Useful state flow
-- Safe defaults
-- Clear permissions
-- Maintainable modules
-- Features that can grow
+<div align="center">
+<img src="https://api.iconify.design/lucide:workflow.svg?color=%23A855F7" width="54" />
+<h3>Flowline</h3>
+<b>Startup & Workflow Innovation Hub</b>
+</div>
+
+<br/>
+
+A productivity-driven project built for smarter workflows, startup systems, and organized product execution.
+
+<table>
+<tr>
+<td><img src="https://api.iconify.design/lucide:route.svg?color=%23FACC15" width="18"/></td>
+<td>Workflow optimization</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:boxes.svg?color=%23A855F7" width="18"/></td>
+<td>Productivity systems</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23FB7185" width="18"/></td>
+<td>Startup-focused ideas</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:chart-line.svg?color=%23FACC15" width="18"/></td>
+<td>Market-ready tooling</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Business-FACC15?style=flat-square&logo=briefcase&logoColor=000000" />
+<img src="https://img.shields.io/badge/Status-Startup-A855F7?style=flat-square" />
+</div>
 
 </td>
-<td width="33%" valign="top">
+</tr>
 
-### Product Rules
+<tr>
+<td width="50%" valign="top">
 
-- Identity before templates
-- Real use before hype
-- Motion with purpose
-- Privacy where it matters
-- Details make it memorable
-- Keep improving the universe
+<div align="center">
+<img src="https://api.iconify.design/lucide:bot-message-square.svg?color=%23FB7185" width="54" />
+<h3>Discord Bot Systems</h3>
+<b>Automation, Moderation & Community Tools</b>
+</div>
+
+<br/>
+
+Advanced Discord bot ecosystems built for communities, permissions, moderation, and automated server experiences.
+
+<table>
+<tr>
+<td><img src="https://api.iconify.design/lucide:shield.svg?color=%23FACC15" width="18"/></td>
+<td>Moderation systems</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:message-square-code.svg?color=%23A855F7" width="18"/></td>
+<td>Command architecture</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:user-cog.svg?color=%23FB7185" width="18"/></td>
+<td>Role and permission flows</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:activity.svg?color=%23FACC15" width="18"/></td>
+<td>Analytics and logging</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-FACC15?style=flat-square&logo=robotframework&logoColor=000000" />
+<img src="https://img.shields.io/badge/Community-A855F7?style=flat-square" />
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://api.iconify.design/lucide:shield-check.svg?color=%23FACC15" width="54" />
+<h3>Security Toolkit</h3>
+<b>Auditing, Validation & Safer Systems</b>
+</div>
+
+<br/>
+
+Security-aware backend patterns designed around safer defaults, cleaner permissions, and audit-friendly workflows.
+
+<table>
+<tr>
+<td><img src="https://api.iconify.design/lucide:key-round.svg?color=%23FACC15" width="18"/></td>
+<td>Authentication and access control</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:scan-search.svg?color=%23A855F7" width="18"/></td>
+<td>Validation and security checks</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:file-lock-2.svg?color=%23FB7185" width="18"/></td>
+<td>Safe configuration handling</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:clipboard-check.svg?color=%23FACC15" width="18"/></td>
+<td>Audit-ready reports</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Security-FB7185?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Audit-FACC15?style=flat-square&logo=checkmarx&logoColor=000000" />
+<img src="https://img.shields.io/badge/Backend-A855F7?style=flat-square" />
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23A855F7" width="54" />
+<h3>Gaming Tools</h3>
+<b>Game Utilities, Panels & Interactive Systems</b>
+</div>
+
+<br/>
+
+Tooling and systems related to gaming workflows, server utilities, panels, and community-based interactive experiences.
+
+<table>
+<tr>
+<td><img src="https://api.iconify.design/lucide:server.svg?color=%23FACC15" width="18"/></td>
+<td>Server utilities</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:gauge.svg?color=%23A855F7" width="18"/></td>
+<td>Performance-minded systems</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:users.svg?color=%23FB7185" width="18"/></td>
+<td>Community features</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:panel-top.svg?color=%23FACC15" width="18"/></td>
+<td>Dashboard interfaces</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Gaming-FACC15?style=flat-square&logo=steam&logoColor=000000" />
+<img src="https://img.shields.io/badge/Tools-A855F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Panels-FB7185?style=flat-square" />
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://api.iconify.design/lucide:layout-template.svg?color=%23FACC15" width="54" />
+<h3>Premium UI Systems</h3>
+<b>Dark Interfaces & Product Design</b>
+</div>
+
+<br/>
+
+UI work focused on dark premium visuals, component consistency, clean layout systems, and polished interaction design.
+
+<table>
+<tr>
+<td><img src="https://api.iconify.design/lucide:palette.svg?color=%23FACC15" width="18"/></td>
+<td>Dark premium interfaces</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:panels-top-left.svg?color=%23A855F7" width="18"/></td>
+<td>Structured dashboards</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:sparkles.svg?color=%23FB7185" width="18"/></td>
+<td>Visual polish</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:mouse-pointer-click.svg?color=%23FACC15" width="18"/></td>
+<td>Interactive experience</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/UI-FACC15?style=flat-square&logo=figma&logoColor=000000" />
+<img src="https://img.shields.io/badge/UX-A855F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Dark%20Design-FB7185?style=flat-square" />
+</div>
 
 </td>
 </tr>
 </table>
 
-</details>
-
 ---
 
 <div align="center">
 
-## ✦ GitHub Telemetry
+<h2>
+  <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23FACC15" width="30" />
+  What I Work With
+</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FaisalKSA966&show_icons=true&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=D4D4D8&icon_color=FACC15" />
-<img width="49%" src="https://streak-stats.demolab.com?user=FaisalKSA966&hide_border=true&background=050505&ring=FACC15&fire=FB7185&currStreakLabel=FFFFFF&sideLabels=D4D4D8&currStreakNum=FFFFFF&sideNums=FACC15" />
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:server-cog.svg?color=%23FACC15" width="48" />
+<h3>Backend</h3>
+Node.js<br/>
+Express.js<br/>
+REST APIs<br/>
+Authentication<br/>
+Databases<br/>
+Microservices<br/>
+Architecture<br/>
+Automation
+</td>
 
-<br /><br />
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:bot.svg?color=%23A855F7" width="48" />
+<h3>Discord</h3>
+Discord.js<br/>
+Slash Commands<br/>
+Moderation<br/>
+Logging<br/>
+Events<br/>
+Roles<br/>
+Community Tools<br/>
+Automation
+</td>
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalKSA966&layout=compact&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=D4D4D8" />
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23FB7185" width="48" />
+<h3>AI Systems</h3>
+AI Tools<br/>
+Workflows<br/>
+Assistants<br/>
+Integrations<br/>
+Smart UX<br/>
+Data Flow<br/>
+Product Logic<br/>
+Automation
+</td>
+
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:shield-half.svg?color=%23FACC15" width="48" />
+<h3>Security</h3>
+Validation<br/>
+Permissions<br/>
+Risk Awareness<br/>
+Audit Logs<br/>
+Safe Defaults<br/>
+Review Mindset<br/>
+Secure Patterns<br/>
+Access Control
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -711,9 +546,55 @@ flowchart LR
 
 <div align="center">
 
-## ✦ Contribution Activity
+<h2>
+  <img src="https://api.iconify.design/lucide:quote.svg?color=%23FACC15" width="30" />
+  Developer Mindset
+</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalKSA966&bg_color=050505&color=D4D4D8&line=FACC15&point=FFFFFF&area=true&hide_border=true" />
+<table>
+<tr>
+<td align="center">
+
+### **Build with purpose. Design with taste. Secure by default. Scale with discipline.**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://api.iconify.design/lucide:gem.svg?color=%23FACC15" width="44" />
+<br/>
+<b>Premium Experience</b>
+<br/>
+Every product should feel polished, thoughtful, and visually intentional.
+</td>
+
+<td align="center" width="33%">
+<img src="https://api.iconify.design/lucide:cpu.svg?color=%23A855F7" width="44" />
+<br/>
+<b>Clean Architecture</b>
+<br/>
+Systems should be maintainable, scalable, and built with long-term clarity.
+</td>
+
+<td align="center" width="33%">
+<img src="https://api.iconify.design/lucide:shield-check.svg?color=%23FB7185" width="44" />
+<br/>
+<b>Security First</b>
+<br/>
+Good products protect users, data, permissions, and behavior from the start.
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Purpose-FACC15?style=for-the-badge&logo=target&logoColor=000000" />
+<img src="https://img.shields.io/badge/Taste-111111?style=for-the-badge&logo=figma&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Security-FB7185?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Scale-A855F7?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 </div>
 
@@ -721,7 +602,10 @@ flowchart LR
 
 <div align="center">
 
-## ✦ Trophy Wall
+<h2>
+  <img src="https://api.iconify.design/lucide:trophy.svg?color=%23FACC15" width="30" />
+  GitHub Trophies
+</h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=FaisalKSA966&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
 
@@ -731,24 +615,67 @@ flowchart LR
 
 <div align="center">
 
-## ✦ Contact
+<h2>
+  <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%23FACC15" width="30" />
+  GitHub Analytics
+</h2>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FaisalKSA966&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=FACC15&icon_color=A855F7&text_color=F5F5F5" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FaisalKSA966&theme=tokyonight&hide_border=true&background=050505&ring=FACC15&fire=FB7185&currStreakLabel=FACC15&sideNums=F5F5F5&currStreakNum=A855F7" />
+
+<br/><br/>
+
+<img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalKSA966&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=FACC15&text_color=F5F5F5" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>
+  <img src="https://api.iconify.design/lucide:activity.svg?color=%23FACC15" width="30" />
+  Contribution Activity
+</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalKSA966&bg_color=050505&color=F5F5F5&line=FACC15&point=A855F7&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>
+  <img src="https://api.iconify.design/lucide:send.svg?color=%23FACC15" width="30" />
+  Connect With Me
+</h2>
 
 <a href="https://github.com/FaisalKSA966">
-  <img src="https://img.shields.io/badge/GitHub-FaisalKSA966-FFFFFF?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505" />
+  <img src="https://img.shields.io/badge/GitHub-FaisalKSA966-111111?style=for-the-badge&logo=github&logoColor=FACC15" />
 </a>
+
 <a href="https://discord.com/users/6j.">
   <img src="https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<br /><br />
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Always-Building-FACC15?style=for-the-badge&logo=rocket&logoColor=000000" />
 <img src="https://img.shields.io/badge/Product-Minded-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Design-Aware-FB7185?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-First-111111?style=for-the-badge&logo=hackthebox&logoColor=FB7185" />
 
-<br /><br />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FACC15,35:FDE047,70:A855F7,100:FB7185" />
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FACC15,25:FDE047,50:111111,75:A855F7,100:FB7185&height=5&section=footer" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:FACC15,70:A855F7,100:FB7185&height=130&section=footer" />
 
 </div>
