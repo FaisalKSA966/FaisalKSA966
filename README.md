@@ -1,87 +1,223 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&width=700&height=70&lines=Full-Stack+Developer;Discord+Bot+Specialist;AI+%26+Cybersecurity+Enthusiast;Founder+%26+Innovator)</div>
-
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=FaisalKSA966&color=00c2ff&style=for-the-badge)](https://github.com/FaisalKSA966)
-[![Followers](https://img.shields.io/github/followers/FaisalKSA966?color=00c2ff&style=for-the-badge&logo=github&label=Followers)](https://github.com/FaisalKSA966)
-[![Stars](https://img.shields.io/github/stars/FaisalKSA966?color=00c2ff&style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/FaisalKSA966)
-[![Discord](https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/6j.)
+
+<img
+  src="https://images.weserv.nl/?url=github.com/FaisalKSA966.png&h=180&w=180&fit=cover&mask=circle&maxage=7d"
+  width="160"
+  height="160"
+  alt="Faisal Avatar"
+/>
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=850&height=80&lines=Full-Stack+Developer;Discord+Bot+Specialist;AI+%26+Cybersecurity+Enthusiast;Founder+%26+Innovator"
+  alt="Typing SVG"
+/>
+
+<br/>
+
+<a href="https://github.com/FaisalKSA966">
+  <img src="https://komarev.com/ghpvc/?username=FaisalKSA966&color=00c2ff&style=for-the-badge&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/FaisalKSA966?tab=followers">
+  <img src="https://img.shields.io/github/followers/FaisalKSA966?color=7C3AED&style=for-the-badge&logo=github&label=Followers" />
+</a>
+<a href="https://github.com/FaisalKSA966">
+  <img src="https://img.shields.io/github/stars/FaisalKSA966?color=00C2FF&style=for-the-badge&logo=github&label=Total%20Stars" />
+</a>
+<a href="https://discord.com/users/6j.">
+  <img src="https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h2>
+  <img src="https://api.iconify.design/lucide:user-round-check.svg?color=%2300C2FF" width="28" />
+  About Me
+</h2>
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+  <b>Full-Stack Developer</b> focused on building modern web apps, Discord bots,
+  automation systems, AI-powered tools, and cybersecurity-focused solutions.
+</p>
 
-### 🎨 Frontend & Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🔧 Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🎮 Game Development & AI
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p>
+  I care about <b>clean architecture</b>, <b>premium UI</b>, <b>performance</b>,
+  and turning ideas into real products.
+</p>
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+<div align="center">
+
+<h2>
+  <img src="https://api.iconify.design/lucide:layers-3.svg?color=%2300C2FF" width="30" />
+  Tech Stack & Tools
+</h2>
+
+</div>
+
+<div align="center">
+
+<h3>
+  <img src="https://api.iconify.design/lucide:code-xml.svg?color=%237C3AED" width="24" />
+  Programming Languages
+</h3>
+
+<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css&theme=dark" />
+
+<br/><br/>
+
+<h3>
+  <img src="https://api.iconify.design/lucide:server.svg?color=%237C3AED" width="24" />
+  Backend & Database
+</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=dark" />
+
+<br/><br/>
+
+<h3>
+  <img src="https://api.iconify.design/lucide:monitor-smartphone.svg?color=%237C3AED" width="24" />
+  Frontend & Frameworks
+</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+
+<br/><br/>
+
+<h3>
+  <img src="https://api.iconify.design/lucide:wrench.svg?color=%237C3AED" width="24" />
+  Development Tools
+</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" />
+
+<br/><br/>
+
+<h3>
+  <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%237C3AED" width="24" />
+  Game Development & AI
+</h3>
+
+<img src="https://skillicons.dev/icons?i=unreal,tensorflow,openai&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>
+  <img src="https://api.iconify.design/lucide:rocket.svg?color=%2300C2FF" width="30" />
+  Featured Projects
+</h2>
+
+</div>
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 OpticAI
-**Revolutionary AI Platform**
-- Advanced machine learning integration
-- Intelligent automation solutions
-- User-friendly interface design
-- Scalable architecture
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=artificial-intelligence&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
+<img src="https://api.iconify.design/lucide:bot.svg?color=%2300C2FF" width="48" />
+
+<h3>OpticAI</h3>
+
+<p><b>Revolutionary AI Platform</b></p>
+
+</div>
+
+<p>
+Advanced AI platform focused on intelligent automation, machine learning integration,
+and modern user experience.
+</p>
+
+<table>
+<tr>
+<td><img src="https://api.iconify.design/lucide:zap.svg?color=%2300C2FF" width="18" /></td>
+<td>Intelligent automation tools</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:brain.svg?color=%237C3AED" width="18" /></td>
+<td>AI-powered workflows</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:palette.svg?color=%2300C2FF" width="18" /></td>
+<td>Clean and user-friendly interface</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%237C3AED" width="18" /></td>
+<td>Scalable architecture</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/AI-00C2FF?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" />
+
+</div>
 
 </td>
-<td width="50%">
 
-### 🚀 Flowline
-**Startup & Innovation Hub**
-- Workflow optimization tools
-- Productivity enhancement solutions
-- Early-stage development
-- Market-ready prototypes
+<td width="50%" valign="top">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Business](https://img.shields.io/badge/Business-4ECDC4?style=flat-square&logo=briefcase&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Startup-orange?style=flat-square)
+<div align="center">
+
+<img src="https://api.iconify.design/lucide:workflow.svg?color=%237C3AED" width="48" />
+
+<h3>Flowline</h3>
+
+<p><b>Startup & Innovation Hub</b></p>
+
+</div>
+
+<p>
+A productivity and startup-focused project built to improve workflows, organize ideas,
+and create market-ready tools.
+</p>
+
+<table>
+<tr>
+<td><img src="https://api.iconify.design/lucide:route.svg?color=%2300C2FF" width="18" /></td>
+<td>Workflow optimization</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:settings.svg?color=%237C3AED" width="18" /></td>
+<td>Productivity systems</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:lightbulb.svg?color=%2300C2FF" width="18" /></td>
+<td>Startup-focused solutions</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:puzzle.svg?color=%237C3AED" width="18" /></td>
+<td>Early-stage prototypes</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Business-4ECDC4?style=flat-square&logo=briefcase&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Startup-orange?style=flat-square" />
+
+</div>
 
 </td>
 </tr>
@@ -91,17 +227,112 @@
 
 ---
 
-## 🎯 Expertise & Skills
+<div align="center">
+
+<h2>
+  <img src="https://api.iconify.design/lucide:badge-check.svg?color=%2300C2FF" width="30" />
+  Expertise & Skills
+</h2>
+
+</div>
 
 <div align="center">
 
-| 🔧 **Backend Development** | 🤖 **Bot Development** | 🎮 **Game Development** | 🔐 **Cybersecurity** |
-|:----------------------:|:------------------:|:-------------------:|:----------------:|
-| Node.js & Express | Discord.js Framework | Unreal Engine | Penetration Testing |
-| RESTful API Design | Command Systems | 3D Game Logic | Security Auditing |
-| Database Architecture | Event Handling | Performance Optimization | Ethical Hacking |
-| Microservices | Automation Bots | Multiplayer Systems | Vulnerability Assessment |
+<table>
+<tr>
+
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:server-cog.svg?color=%2300C2FF" width="42" />
+<h3>Backend</h3>
+Node.js<br/>
+Express.js<br/>
+REST APIs<br/>
+Database Design<br/>
+Microservices
+</td>
+
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:bot.svg?color=%237C3AED" width="42" />
+<h3>Bot Development</h3>
+Discord.js<br/>
+Command Systems<br/>
+Event Handling<br/>
+Automation<br/>
+Community Tools
+</td>
+
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%2300C2FF" width="42" />
+<h3>Game Dev</h3>
+Unreal Engine<br/>
+3D Game Logic<br/>
+Performance<br/>
+Multiplayer Systems<br/>
+Game Tools
+</td>
+
+<td align="center" width="25%">
+<img src="https://api.iconify.design/lucide:shield-check.svg?color=%237C3AED" width="42" />
+<h3>Security</h3>
+Security Auditing<br/>
+Ethical Hacking<br/>
+Vulnerability Checks<br/>
+Secure Systems<br/>
+Best Practices
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
+
+<div align="center">
+
+<h2>
+  <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%2300C2FF" width="30" />
+  GitHub Analytics
+</h2>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FaisalKSA966&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=7C3AED&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FaisalKSA966&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=7C3AED&currStreakLabel=00C2FF" />
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalKSA966&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>
+  <img src="https://api.iconify.design/lucide:send.svg?color=%2300C2FF" width="30" />
+  Connect With Me
+</h2>
+
+<a href="https://github.com/FaisalKSA966">
+  <img src="https://img.shields.io/badge/GitHub-FaisalKSA966-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/6j.">
+  <img src="https://img.shields.io/badge/Discord-6j.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>
+  <img src="https://api.iconify.design/lucide:sparkles.svg?color=%2300C2FF" width="24" />
+  Building ideas into real products.
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=120&section=footer"/>
+
+</div>
